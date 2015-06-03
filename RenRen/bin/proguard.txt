@@ -1,0 +1,95 @@
+# view res/layout/message.xml #generated:58
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.baidu.location.f { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class com.renren.android.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.renren.android.blog.Blog { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.renren.android.blog.BlogAddCommment { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.renren.android.blog.BlogComments { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.renren.android.blog.BlogPublish { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.renren.android.chat.ChatInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.renren.android.friends.FriendsFind { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.renren.android.friends.FriendsFindSearch { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.renren.android.location.CurrentLocation { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.renren.android.location.NearBy { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class com.renren.android.location.NearByWeb { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.renren.android.newsfeed.NewsFeedPublish { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.renren.android.photos.PhotosAddCommentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.renren.android.photos.PhotosCommentsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.renren.android.photos.PhotosCreateAlbum { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.renren.android.photos.PhotosDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.renren.android.photos.PhotosEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.renren.android.photos.PhotosEditChooseAlbum { <init>(...); }
+
+# view res/layout/photosdetail.xml #generated:10
+-keep class com.renren.android.photos.PhotosGallery { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.renren.android.photos.PhotosListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.renren.android.photos.PhotosUpload { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.renren.android.settings.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.renren.android.ui.Auth { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.renren.android.ui.DesktopActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.renren.android.ui.Welcome { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.renren.android.ui.Welcome_Guide { <init>(...); }
+
+# view res/layout/friends.xml #generated:131
+# view res/layout/page.xml #generated:101
+-keep class com.renren.android.ui.base.MyLetterListView { <init>(...); }
+
+# view res/layout/friends.xml #generated:120
+# view res/layout/page.xml #generated:90
+-keep class com.renren.android.ui.base.PinnedHeaderListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.renren.android.user.Friend { <init>(...); }
+
